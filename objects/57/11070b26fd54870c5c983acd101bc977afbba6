@@ -1,0 +1,7 @@
+[map "3c1051dd-3733-3e3b-8123-b76abd8e4821"]
+	object = 01d36bb31aba6ee52113120f817be3a44406d918
+	type = include + expand tree
+[map "4f0087d5-0829-34b8-b1ba-16c7cf8d6681"]
+	object = 050bad98771d6ab457b2d19b9728ae901bfc4fd6
+	path = modules/slf4j
+	type = expand module

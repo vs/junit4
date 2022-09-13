@@ -1,0 +1,12 @@
+[module "297fc3d1-332e-32f6-90a8-24f163cf2e67"]
+	conflict = request-pull
+	path = modules/slf4j
+	pull = merge rebase
+	pull = squash never
+	ref = if refs/heads/main sync refs/heads/master
+	url = agnostic://ght/536220628
+[map "812eae21-ebee-3f57-8bc9-fc2c32a14f1b"]
+	object = 94b6e47d8772e91b669c364f489aebe5eb8fed99
+	path = modules/slf4j
+	stage = sync
+	type = extract module

@@ -1,0 +1,4 @@
+[map "62c451fa-57b5-3f1c-ac82-ee8c4f974b57"]
+	object = 3077fab523e66d571fe974c0c7dab9adf6f7f9d8
+	path = modules/slf4j
+	type = expand module

@@ -1,0 +1,6 @@
+[object]
+	state = initial
+[map "927f5afb-5e8f-3939-a311-18d2e96d7a84"]
+	object = f5e63612a8981efa2d7d64653cb949cc8e98b046
+	path = modules/slf4j
+	type = extract module
